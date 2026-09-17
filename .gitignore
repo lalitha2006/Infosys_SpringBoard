@@ -1,0 +1,40 @@
+# Node Modules
+node_modules/
+
+# React Build
+dist/
+
+# Environment Variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# Maven Wrapper Logs
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Temporary Files
+*.log
